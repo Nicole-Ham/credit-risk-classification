@@ -26,14 +26,14 @@ A revised logistic regression model used the newly balanced training data and wa
 ## Results
 
 * Machine Learning Model 1:
-  *Precision: average of 92.5% (the model was 100% precise in predicting low-risk loans and was only 85% precise in predicting high-risk loans)
-  *Accuracy: 99%
-  *Recall: average of 95% (the model was 99% precise in predicting low-risk loans and was only 91% precise in predicting high-risk loans)
+  * Precision: average of 92.5% (the model was 100% precise in predicting low-risk loans and was only 85% precise in predicting high-risk loans)
+  * Accuracy: 99%
+  * Recall: average of 95% (the model was 99% precise in predicting low-risk loans and was only 91% precise in predicting high-risk loans)
 
 * Machine Learning Model 2:
-  *Precision: average of 92% (the model was 100% precise in predicting low-risk loans and was only 84% precise in predicting high-risk loans)
-  *Accuracy: 99%
-  *Recall: average of 99% (the model was 99% precise in predicting low-risk loans and was only 91% precise in predicting high-risk loans)
+  * Precision: average of 92% (the model was 100% precise in predicting low-risk loans and was only 84% precise in predicting high-risk loans)
+  * Accuracy: 99%
+  * Recall: average of 99% (the model was 99% precise in predicting low-risk loans and was only 91% precise in predicting high-risk loans)
 
 ## Summary
 
