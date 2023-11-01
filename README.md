@@ -1,7 +1,7 @@
 # credit-risk-classification
 UC Davis Module 20 Challenge
 
-Machine learning methods are used to analyze a dataset consisting of past lending transactions of a peer=to-peer lending firm. The aim is to construct a model capable of assessing the creditworthiness of potential borrowers. 
+Machine learning methods are used to analyze a dataset consisting of past lending transactions of a peer-to-peer lending firm. The aim is to construct a model capable of assessing the creditworthiness of potential borrowers. 
 
 ## Overview of the Analysis
 
